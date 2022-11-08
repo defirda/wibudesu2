@@ -12,7 +12,7 @@ const Navbar = () => {
 
                 <div className="flex items-center">
                     <Link className="cursor-pointer" to={`/`}>
-                        Wibudesu2
+                        Wibudesu
                     </Link>
                 </div>
 
